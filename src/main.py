@@ -3,8 +3,8 @@ import flet as ft
 def main(page: ft.Page):
      page.window.always_on_top = True
      page.window.full_screen = False
-     page.window.height = 300
-     page.window.max_height = 300
+     page.window.height = 400
+     page.window.max_height = 400
      page.bgcolor = "#b895c4" 
      
      row1 = ft.ResponsiveRow(
