@@ -8,7 +8,7 @@ def main(page: ft.Page):
      page.bgcolor = "#b895c4" 
      
      row1 = ft.ResponsiveRow(
-            width = 300,
+            width = 400,
             height = 50,
             alignment = ft.MainAxisAlignment.CENTER,
             vertical_alignment = ft.CrossAxisAlignment.CENTER,
